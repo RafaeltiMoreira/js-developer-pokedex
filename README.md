@@ -1,8 +1,8 @@
-# ⚔️ Desafio: Pokédex com Consumo de API REST
-**Projeto:** Este repositório contém a solução do desafio Pokédex da DIO. O objetivo é explorar a API REST do universo Pokémon para criar uma Pokédex funcional, utilizando JavaScript e os fundamentos do desenvolvimento Web aprendidos na plataforma.
+# ⚔️ Desafio: Pokedex com Consumo de API REST
+**Projeto:** Este repositório contém a solução do desafio Pokedex da DIO. O objetivo é explorar a API REST do universo Pokémon para criar uma Pokédex funcional, utilizando JavaScript e os fundamentos do desenvolvimento Web aprendidos na plataforma.
 
 # 🎯 Deploy do Desafio
-🔗 [Clique aqui para acessar a página](https://caminho)
+🔗 [Clique aqui para acessar a página](https://pokedex-api-dio.netlify.app/)
 
 ![Preview da Página](.github/preview.png)
 
@@ -55,7 +55,7 @@ Imagem: (imagem do Pokémon)
 ## 🔗 Links de Referência
 
 - [Plataforma DIO](https://web.dio.me/)
-- [Deploy Netlify](https://caminho/)
+- [Deploy Netlify](https://pokedex-api-dio.netlify.app/)
 
 ## 👨‍💻 Autor
 
